@@ -1,4 +1,5 @@
-﻿using Evaluaion1.Models;
+﻿using Evaluacion1;
+using Evaluaion1.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,16 +7,12 @@ namespace Evaluaion1.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+  
+        public async Task<IActionResult> Index()
         {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
+            var service = new ServiceClient();
+            var x = await service.GetUserAsync(int.MaxValue);
+            return View(x); 
         }
 
         public IActionResult Privacy()

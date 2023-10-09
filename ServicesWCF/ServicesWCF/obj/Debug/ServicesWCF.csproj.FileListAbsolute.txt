@@ -1,0 +1,7 @@
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\bin\Debug\ServicesWCF.dll.config
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\bin\Debug\ServicesWCF.dll
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\bin\Debug\ServicesWCF.pdb
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\obj\Debug\ServicesWCF.csproj.AssemblyReference.cache
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\obj\Debug\ServicesWCF.csproj.CoreCompileInputs.cache
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\obj\Debug\ServicesWCF.dll
+D:\CURSOS\CURSO.NET-MVC\evaluacion-1\ServicesWCF\ServicesWCF\obj\Debug\ServicesWCF.pdb
